@@ -1,0 +1,11 @@
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\bin\x64\Debug\IsMirroredPlugin.dll
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\bin\x64\Debug\IsMirroredPlugin.pdb
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\obj\x64\Debug\IsMirroredPlugin.csproj.AssemblyReference.cache
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\obj\x64\Debug\IsMirroredUI.g.cs
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\obj\x64\Debug\IsMirroredPlugin_MarkupCompile.cache
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\obj\x64\Debug\IsMirroredPlugin_MarkupCompile.lref
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\obj\x64\Debug\IsMirroredUI.baml
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\obj\x64\Debug\IsMirroredPlugin.g.resources
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\obj\x64\Debug\IsMirroredPlugin.csproj.CoreCompileInputs.cache
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\obj\x64\Debug\IsMirroredPlugin.dll
+C:\Users\lchkm\source\repos\IsMirroredPlugin\IsMirroredPlugin\obj\x64\Debug\IsMirroredPlugin.pdb

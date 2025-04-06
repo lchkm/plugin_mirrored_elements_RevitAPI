@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{641E1290-8E61-4B44-8C73-F7FB78C7271C}|IsMirroredPlugin\\IsMirroredPlugin.csproj|c:\\users\\lchkm\\source\\repos\\ismirroredplugin\\ismirroredplugin\\startclassfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641E1290-8E61-4B44-8C73-F7FB78C7271C}|IsMirroredPlugin\\IsMirroredPlugin.csproj|solutionrelative:ismirroredplugin\\startclassfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641E1290-8E61-4B44-8C73-F7FB78C7271C}|IsMirroredPlugin\\IsMirroredPlugin.csproj|C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\ismirroredplugin\\ismirroredui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641E1290-8E61-4B44-8C73-F7FB78C7271C}|IsMirroredPlugin\\IsMirroredPlugin.csproj|solutionrelative:ismirroredplugin\\ismirroredui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641E1290-8E61-4B44-8C73-F7FB78C7271C}|IsMirroredPlugin\\IsMirroredPlugin.csproj|C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\ismirroredplugin\\ismirroredui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{641E1290-8E61-4B44-8C73-F7FB78C7271C}|IsMirroredPlugin\\IsMirroredPlugin.csproj|solutionrelative:ismirroredplugin\\ismirroredui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641E1290-8E61-4B44-8C73-F7FB78C7271C}|IsMirroredPlugin\\IsMirroredPlugin.csproj|C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\ismirroredplugin\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{641E1290-8E61-4B44-8C73-F7FB78C7271C}|IsMirroredPlugin\\IsMirroredPlugin.csproj|solutionrelative:ismirroredplugin\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\IsMirroredPlugin\\packages.config",
+              "RelativeDocumentMoniker": "IsMirroredPlugin\\packages.config",
+              "ToolTip": "C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\IsMirroredPlugin\\packages.config",
+              "RelativeToolTip": "IsMirroredPlugin\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T14:25:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IsMirroredUI.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\IsMirroredPlugin\\IsMirroredUI.xaml.cs",
+              "RelativeDocumentMoniker": "IsMirroredPlugin\\IsMirroredUI.xaml.cs",
+              "ToolTip": "C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\IsMirroredPlugin\\IsMirroredUI.xaml.cs",
+              "RelativeToolTip": "IsMirroredPlugin\\IsMirroredUI.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:05:42.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IsMirroredUI.xaml",
+              "DocumentMoniker": "C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\IsMirroredPlugin\\IsMirroredUI.xaml",
+              "RelativeDocumentMoniker": "IsMirroredPlugin\\IsMirroredUI.xaml",
+              "ToolTip": "C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\IsMirroredPlugin\\IsMirroredUI.xaml",
+              "RelativeToolTip": "IsMirroredPlugin\\IsMirroredUI.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T14:04:12.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartClassFinder.cs",
+              "DocumentMoniker": "C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\IsMirroredPlugin\\StartClassFinder.cs",
+              "RelativeDocumentMoniker": "IsMirroredPlugin\\StartClassFinder.cs",
+              "ToolTip": "C:\\Users\\lchkm\\source\\repos\\IsMirroredPlugin\\IsMirroredPlugin\\StartClassFinder.cs",
+              "RelativeToolTip": "IsMirroredPlugin\\StartClassFinder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:02:51.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
